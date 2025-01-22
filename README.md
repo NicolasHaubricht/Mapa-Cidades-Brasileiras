@@ -5,6 +5,9 @@ Com base nesses dados, o projeto fornece informações detalhadas sobre cada cid
 
 Este projeto pode ser utilizado para análises geográficas, estudos regionais e como ferramenta de apresentação de dados de maneira interativa e visual.
 
+## Deploy do projeto
+Link: <a href='https://nicolashaubricht.github.io/Mapa-Cidades-Brasileiras/'>Deploy</a>
+
 ## Visualização Mapa
 ![map](https://github.com/user-attachments/assets/f45efbeb-bd36-4b72-a001-a3e7b1fae0f9)
 
